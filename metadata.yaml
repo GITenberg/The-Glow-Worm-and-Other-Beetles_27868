@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/735
     wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27868#The-Glow-Worm-and-Other-Beetles
 gutenberg_bookshelf: Animals-Wild-Insects
 gutenberg_issued: '2009-01-22'
 gutenberg_type: Text
